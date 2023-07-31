@@ -1,0 +1,930 @@
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=cny, name=Chinese Yuan, flagIconPath=/icons/rectangular-flags/cny.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Start Timestamp: 1670202636398
+End Timestamp: 1670202640853
+Time Taken (in milliseconds): 4455
+Cache Enabled: false
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=cny, name=Chinese Yuan, flagIconPath=/icons/rectangular-flags/cny.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Start Timestamp: 1670202675719
+End Timestamp: 1670202675924
+Time Taken (in milliseconds): 205
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-11-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=cny, name=Chinese Yuan, flagIconPath=/icons/rectangular-flags/cny.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Start Timestamp: 1670202712855
+End Timestamp: 1670202806091
+Time Taken (in milliseconds): 93236
+Cache Enabled: false
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-11-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=cny, name=Chinese Yuan, flagIconPath=/icons/rectangular-flags/cny.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Start Timestamp: 1670202850545
+End Timestamp: 1670202851796
+Time Taken (in milliseconds): 1251
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203496419
+End Timestamp: 1670203498845
+Time Taken (in milliseconds): 2426
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203546466
+End Timestamp: 1670203547945
+Time Taken (in milliseconds): 1479
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203560483
+End Timestamp: 1670203561416
+Time Taken (in milliseconds): 933
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203606066
+End Timestamp: 1670203606700
+Time Taken (in milliseconds): 634
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203624228
+End Timestamp: 1670203624771
+Time Taken (in milliseconds): 543
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203632619
+End Timestamp: 1670203633522
+Time Taken (in milliseconds): 903
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=rub, name=Russian ruble, flagIconPath=/icons/rectangular-flags/rub.png]
+Currency [countryCode=ars, name=Argentine peso, flagIconPath=/icons/rectangular-flags/ars.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=lkr, name=Sri Lankan rupee, flagIconPath=/icons/rectangular-flags/lkr.png]
+Start Timestamp: 1670203661667
+End Timestamp: 1670203662111
+Time Taken (in milliseconds): 444
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1670203700412
+End Timestamp: 1670203700669
+Time Taken (in milliseconds): 257
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-10-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1670203710028
+End Timestamp: 1670203726741
+Time Taken (in milliseconds): 16713
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1670203743637
+End Timestamp: 1670203759586
+Time Taken (in milliseconds): 15949
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Start Timestamp: 1670203812165
+End Timestamp: 1670203812771
+Time Taken (in milliseconds): 606
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Start Timestamp: 1670203828469
+End Timestamp: 1670203829028
+Time Taken (in milliseconds): 559
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670203879086
+End Timestamp: 1670203879829
+Time Taken (in milliseconds): 743
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Start Timestamp: 1670203997296
+End Timestamp: 1670203997968
+Time Taken (in milliseconds): 672
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Start Timestamp: 1670204114344
+End Timestamp: 1670204115000
+Time Taken (in milliseconds): 656
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1670207208929
+End Timestamp: 1670207210737
+Time Taken (in milliseconds): 1808
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-12-01
+To Date: 2022-12-04
+Base Currency: Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670207226519
+End Timestamp: 1670207227774
+Time Taken (in milliseconds): 1255
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-01
+To Date: 2022-12-15
+Base Currency: Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Comparison Currencies: 
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670209102903
+End Timestamp: 1670209114569
+Time Taken (in milliseconds): 11666
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-02
+To Date: 2022-12-15
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=aed, name=United Arab Emirates Dirham, flagIconPath=/icons/rectangular-flags/aed.png]
+Start Timestamp: 1670220549254
+End Timestamp: 1670220565706
+Time Taken (in milliseconds): 16452
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-08
+To Date: 2022-12-14
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=aed, name=United Arab Emirates Dirham, flagIconPath=/icons/rectangular-flags/aed.png]
+Start Timestamp: 1670270453287
+End Timestamp: 1670270453397
+Time Taken (in milliseconds): 110
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-11-08
+To Date: 2022-12-14
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=aed, name=United Arab Emirates Dirham, flagIconPath=/icons/rectangular-flags/aed.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670270506251
+End Timestamp: 1670270506315
+Time Taken (in milliseconds): 64
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-01-01
+To Date: 2022-12-14
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=aed, name=United Arab Emirates Dirham, flagIconPath=/icons/rectangular-flags/aed.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670270553640
+End Timestamp: 1670270629201
+Time Taken (in milliseconds): 75561
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-06
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670356632057
+End Timestamp: 1670356900324
+Time Taken (in milliseconds): 268267
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-06
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670357022029
+End Timestamp: 1670357473493
+Time Taken (in milliseconds): 451464
+Cache Enabled: false
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2020-09-01
+To Date: 2022-12-06
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Start Timestamp: 1670357517112
+End Timestamp: 1670357517321
+Time Taken (in milliseconds): 209
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-16
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1671221751034
+End Timestamp: 1671221768030
+Time Taken (in milliseconds): 16996
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-12-01
+To Date: 2022-12-16
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=gbp, name=Pound sterling, flagIconPath=/icons/rectangular-flags/gbp.png]
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Start Timestamp: 1671221810910
+End Timestamp: 1671221811180
+Time Taken (in milliseconds): 270
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-01-01
+To Date: 2022-03-01
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=jpy, name=Japanese yen, flagIconPath=/icons/rectangular-flags/jpy.png]
+Currency [countryCode=1inch, name=1inch Network, flagIconPath=/icons/rectangular-flags/1inch.png]
+Start Timestamp: 1678488371177
+End Timestamp: 1678488537247
+Time Taken (in milliseconds): 166070
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-01-01
+To Date: 2022-03-01
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Start Timestamp: 1678488586345
+End Timestamp: 1678488586476
+Time Taken (in milliseconds): 131
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2021-02-01
+To Date: 2022-03-01
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Start Timestamp: 1678488626441
+End Timestamp: 1678488626591
+Time Taken (in milliseconds): 150
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-04-01
+To Date: 2023-04-01
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=sgd, name=Singapore dollar, flagIconPath=/icons/rectangular-flags/sgd.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Start Timestamp: 1681340561391
+End Timestamp: 1681340668713
+Time Taken (in milliseconds): 107322
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2022-04-01
+To Date: 2023-04-01
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=pkr, name=Pakistani rupee, flagIconPath=/icons/rectangular-flags/pkr.png]
+Currency [countryCode=sgd, name=Singapore dollar, flagIconPath=/icons/rectangular-flags/sgd.png]
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=btc, name=Bitcoin, flagIconPath=/icons/rectangular-flags/btc.png]
+Start Timestamp: 1681340709812
+End Timestamp: 1681340710006
+Time Taken (in milliseconds): 194
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+NAME: Currency Comparison
+DETAILS: Amount: 1.0
+From Date: 2023-05-02
+To Date: 2023-06-02
+Base Currency: Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Comparison Currencies: 
+Currency [countryCode=inr, name=Indian rupee, flagIconPath=/icons/rectangular-flags/inr.png]
+Currency [countryCode=eur, name=Euro, flagIconPath=/icons/rectangular-flags/eur.png]
+Currency [countryCode=aed, name=United Arab Emirates Dirham, flagIconPath=/icons/rectangular-flags/aed.png]
+Currency [countryCode=usd, name=United States dollar, flagIconPath=/icons/rectangular-flags/usd.png]
+Start Timestamp: 1685844996029
+End Timestamp: 1685845008819
+Time Taken (in milliseconds): 12790
+Cache Enabled: true
+----------------------------------------------
+
+
+
+
+

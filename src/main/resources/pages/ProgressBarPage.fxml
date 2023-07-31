@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="172.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.northeastern.csye6200.controller.ProgressBarPageController">
+   <children>
+      <ProgressBar fx:id="progressBar" layoutX="98.0" layoutY="73.0" prefHeight="20.0" prefWidth="377.0" progress="0.0" />
+      <Text fx:id="text" layoutX="98.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Loading Data....." />
+      <ProgressIndicator fx:id="progressIndicator" layoutX="284.0" layoutY="118.0" progress="0.0" />
+   </children>
+</Pane>

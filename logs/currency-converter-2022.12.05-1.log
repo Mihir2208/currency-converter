@@ -1,0 +1,9 @@
+2022-12-05 00:54:26,057 [JavaFX Application Thread] [TRACE] [edu.northeastern.csye6200.controller.SettingsPageController.handleLoginButtonClick()-210] Handling login button click
+2022-12-05 00:54:26,066 [JavaFX Application Thread] [TRACE] [edu.northeastern.csye6200.service.impl.AdminServiceImpl.isValidAdminPassword()-31] checking valid admin password for: admin123
+2022-12-05 00:54:26,066 [JavaFX Application Thread] [TRACE] [edu.northeastern.csye6200.service.impl.AdminServiceImpl.isValidAdminPassword()-33] admin password: admin123 is valid?: false
+2022-12-05 00:54:26,067 [JavaFX Application Thread] [DEBUG] [edu.northeastern.csye6200.controller.SettingsPageController.handleLoginButtonClick()-215] will not do anything, invalid admin password given: admin123
+2022-12-05 01:06:31,810 [JavaFX Application Thread] [INFO] [edu.northeastern.csye6200.App.stop()-87] Application has stopped
+2022-12-05 01:06:31,811 [JavaFX Application Thread] [INFO] [edu.northeastern.csye6200.service.impl.CurrencyAPICacheServiceImpl.saveCache()-88] Saving the cache
+2022-12-05 01:06:31,811 [JavaFX Application Thread] [TRACE] [edu.northeastern.csye6200.service.impl.CurrencyAPICacheServiceImpl.saveCache()-92] CACHE_FILE_PATH: ./cache.ser, fileExists: false
+2022-12-05 01:06:31,811 [JavaFX Application Thread] [INFO] [edu.northeastern.csye6200.service.impl.CurrencyAPICacheServiceImpl.saveCache()-94] cache file doesn't exist will create it
+2022-12-05 01:06:31,828 [JavaFX Application Thread] [INFO] [edu.northeastern.csye6200.service.impl.CurrencyAPICacheServiceImpl.saveCache()-113] Cache has been saved successfully

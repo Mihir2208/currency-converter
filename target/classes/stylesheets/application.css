@@ -1,0 +1,33 @@
+.grey-background {
+    -fx-background-color: #dedede;
+}
+
+.black-text {
+	-fx-color: #000
+}
+
+.gradient-background {
+	-fx-background-color: linear-gradient(from 25% 25% to 100% 100% , #43cea2, #185a9d);
+}
+
+.purple-background {
+	-fx-background-color: #7156dd;
+}
+
+.blue-button {
+	-fx-background-color: #0589ff;
+}
+
+.blue-button:hover {
+	-fx-background-color: #00C1FF;
+	-fx-cursor: hand;
+}
+
+.blue-button:pressed {
+    -fx-background-color: #01B2EB;
+}
+
+.radial-gradient {
+	/*-fx-background-color: radial-gradient(circle at 10% 20%, #455666 0%, #222222 90%);*/
+	-fx-background-color: linear-gradient(from 25% 25% to 100% 100% , #455666, #222222);
+}

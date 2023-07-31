@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+
+<TabPane 
+	maxHeight="720.0" 
+	maxWidth="720.0" 
+	minHeight="720.0"
+	minWidth="720.0" 
+	prefHeight="720.0" 
+	prefWidth="720.0"
+	tabClosingPolicy="UNAVAILABLE" 
+	tabMaxHeight="50.0" 
+	tabMaxWidth="160.0"
+	tabMinHeight="50.0" 
+	tabMinWidth="160.0"
+	xmlns:fx="http://javafx.com/fxml/1" 
+	xmlns="http://javafx.com/javafx/19"
+	fx:controller="edu.northeastern.csye6200.controller.MainController">
+	
+	<tabs>
+		<Tab text="Convert">
+			<content>
+				<fx:include fx:id="convertPage" source="ConvertPage.fxml"/>
+			</content>
+		</Tab>
+		
+		<Tab text="History">
+			<content>
+				<fx:include fx:id="historyPage" source="HistoryPage.fxml"/>
+			</content>
+		</Tab>
+		
+		<Tab text="Compare">
+			<content>
+				<fx:include fx:id="comparePage" source="ComparePage.fxml"/>
+			</content>
+		</Tab>
+		
+		<Tab fx:id="settingsTab" text="Settings">
+			<content>
+				<fx:include fx:id="settingsPage" source="SettingsPage.fxml"/>
+			</content>
+		</Tab>
+	</tabs>
+
+</TabPane>

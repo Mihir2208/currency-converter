@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <?import java.lang.String?> -->
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<!-- <?import javafx.scene.chart.CategoryAxis?> -->
+<!-- <?import javafx.scene.chart.LineChart?> -->
+<!-- <?import javafx.scene.chart.NumberAxis?> -->
+<!-- <?import javafx.scene.control.ComboBox?> -->
+<!-- <?import javafx.scene.control.TableColumn?> -->
+<!-- <?import javafx.scene.control.TableView?> -->
+<!-- <?import javafx.scene.control.TextField?> -->
+
+<AnchorPane maxHeight="635.0" maxWidth="945.0" minHeight="635.0" minWidth="945.0" prefHeight="635.0" prefWidth="945.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.northeastern.csye6200.controller.DashboardPageController">
+	<children>
+		<VBox layoutX="-2.0" prefHeight="635.0" prefWidth="265.0" styleClass="gradient-background" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<children>
+				<Pane prefHeight="215.0" prefWidth="190.0">
+					<children>
+						<ImageView fx:id="currencyImageView" fitHeight="163.0" fitWidth="265.0" pickOnBounds="true" preserveRatio="true" />
+						<Text fill="WHITE" layoutX="34.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Currency Converter">
+							<font>
+								<Font name="Roboto" size="20.0" />
+							</font>
+						</Text>
+					</children>
+				</Pane>
+				
+				<Button fx:id="convertButton" alignment="CENTER_LEFT" mnemonicParsing="false" prefHeight="60.0" prefWidth="265.0" styleClass="blue-button" text="Convert" textFill="WHITE">
+					<font>
+						<Font name="Segoe UI Semibold" size="16.0" />
+					</font>
+					<graphic>
+						<ImageView fx:id="convertImageView" fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" />
+					</graphic>
+					<padding>
+						<Insets left="40" />
+					</padding>
+					<VBox.margin>
+                		<Insets>
+                    		<bottom>5</bottom>
+                		</Insets>
+            		</VBox.margin>
+				</Button>
+				
+				<Button fx:id="historyButton" alignment="CENTER_LEFT" mnemonicParsing="false" prefHeight="60.0" prefWidth="265.0" styleClass="blue-button" text="History" textFill="WHITE">
+					<font>
+						<Font name="Segoe UI Semibold" size="16.0" />
+					</font>
+					<graphic>
+						<ImageView fx:id="historyImageView" fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" />
+					</graphic>
+					<padding>
+						<Insets left="40" />
+					</padding>
+					<VBox.margin>
+                		<Insets>
+                    		<bottom>5</bottom>
+                		</Insets>
+            		</VBox.margin>
+				</Button>
+				
+				<Button fx:id="compareButton" alignment="CENTER_LEFT" mnemonicParsing="false" prefHeight="60.0" prefWidth="265.0" styleClass="blue-button" text="Compare" textFill="WHITE">
+					<font>
+						<Font name="Segoe UI Semibold" size="16.0" />
+					</font>
+					<graphic>
+						<ImageView fx:id="compareImageView" fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" />
+					</graphic>
+					<padding>
+						<Insets left="40" />
+					</padding>
+					<VBox.margin>
+                		<Insets>
+                    		<bottom>5</bottom>
+                		</Insets>
+            		</VBox.margin>
+				</Button>
+				
+				<Button fx:id="settingsButton" alignment="CENTER_LEFT" mnemonicParsing="false" prefHeight="60.0" prefWidth="265.0" styleClass="blue-button" text="Settings" textFill="WHITE">
+					<font>
+						<Font name="Segoe UI Semibold" size="16.0" />
+					</font>
+					<graphic>
+						<ImageView fx:id="settingsImageView" fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" />
+					</graphic>
+					<padding>
+						<Insets left="40" />
+					</padding>
+					<VBox.margin>
+                		<Insets>
+                    		<bottom>5</bottom>
+                		</Insets>
+            		</VBox.margin>
+				</Button>
+				
+	            <Button fx:id="comingSoonButton" alignment="CENTER_LEFT" mnemonicParsing="false" prefHeight="60.0" prefWidth="265.0" styleClass="blue-button" text="Coming Soon" textFill="WHITE">
+	               <font>
+	                  <Font name="Segoe UI Semibold" size="16.0" />
+	               </font>
+	               <graphic>
+	                  <ImageView fx:id="comingSoonImageView" fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" />
+	               </graphic>
+	               <padding>
+	                  <Insets left="40" />
+	               </padding>
+	               <VBox.margin>
+                		<Insets>
+                    		<bottom>60</bottom>
+                		</Insets>
+            		</VBox.margin>
+	            </Button>
+            	
+            	<Text fx:id="appVersionText" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="265.0">
+					<font>
+                  		<Font name="System Bold" size="25.0" />
+               		</font>
+            	</Text>
+			</children>
+		</VBox>
+		
+		<Pane layoutX="263.0" prefHeight="126.0" prefWidth="681.0" styleClass="purple-background" AnchorPane.leftAnchor="262.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<children>
+				<Text fx:id="text" fill="#f2f2f2" layoutX="32.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Converter">
+					<font>
+						<Font size="24.0" />
+					</font>
+				</Text>
+				
+				<AnchorPane layoutY="126.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="509.0" prefWidth="681.0">
+					<fx:include fx:id="convertPage" source="ConvertPage.fxml" visible="true" />
+					<fx:include fx:id="comparePage" source="ComparePage.fxml" visible="false" />
+					<fx:include fx:id="historyPage" source="HistoryPage.fxml" visible="false" />
+					<fx:include fx:id="settingsPage" source="SettingsPage.fxml" visible="false" />
+					<fx:include fx:id="comingSoonPage" source="ComingSoonPage.fxml" visible="false" />
+				</AnchorPane>
+			</children>
+		</Pane>
+	</children>
+</AnchorPane>

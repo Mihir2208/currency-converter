@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="652.0" prefWidth="911.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.northeastern.csye6200.controller.ComparisonGraphPageController">
+   <children>
+      <LineChart fx:id="lineChart" layoutX="22.0" layoutY="16.0" prefHeight="622.0" prefWidth="869.0">
+        <xAxis>
+          <NumberAxis fx:id="xAxis" label="Date" side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" label="Value" side="LEFT" />
+        </yAxis>
+      </LineChart>
+   </children>
+</Pane>

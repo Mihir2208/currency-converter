@@ -1,0 +1,35 @@
+2022-11-29 17:03:17,439 [INFO] [edu.northeastern.csye6200.Main.main()-11] Launching Main with args: {}
+2022-11-29 17:03:17,701 [INFO] [edu.northeastern.csye6200.App.start()-40] starting the primaryStage: javafx.stage.Stage@6d9a6b4c
+2022-11-29 17:03:17,702 [TRACE] [edu.northeastern.csye6200.Dummy.<init>()-10] contructor called....
+2022-11-29 17:03:17,702 [TRACE] [edu.northeastern.csye6200.Dummy.runAllMethods()-14] runAllMethods() called
+2022-11-29 17:03:17,703 [TRACE] [edu.northeastern.csye6200.Dummy.normalMethod()-20] normalMethod() called
+2022-11-29 17:03:17,703 [TRACE] [edu.northeastern.csye6200.Dummy.exceptionMethod()-24] exceptionMethod() called
+2022-11-29 17:03:17,703 [ERROR] [edu.northeastern.csye6200.Dummy.exceptionMethod()-29] Exception occured in exceptionMethod()
+java.lang.ArithmeticException: / by zero
+	at edu.northeastern.csye6200.Dummy.exceptionMethod(Dummy.java:27) ~[classes/:?]
+	at edu.northeastern.csye6200.Dummy.runAllMethods(Dummy.java:16) ~[classes/:?]
+	at edu.northeastern.csye6200.App.start(App.java:44) ~[classes/:?]
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:847) ~[javafx-graphics-19-mac-aarch64.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:484) ~[javafx-graphics-19-mac-aarch64.jar:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:457) ~[javafx-graphics-19-mac-aarch64.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:456) ~[javafx-graphics-19-mac-aarch64.jar:?]
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96) ~[javafx-graphics-19-mac-aarch64.jar:?]
+2022-11-29 17:03:17,708 [INFO] [edu.northeastern.csye6200.App.start()-47] configKey: log4j.configurationFile
+2022-11-29 17:03:17,708 [INFO] [edu.northeastern.csye6200.App.start()-50] configProperty: null
+2022-11-29 17:03:17,708 [TRACE] [edu.northeastern.csye6200.App.start()-53] FILE_NAME: /main.fxml
+2022-11-29 17:03:17,709 [TRACE] [edu.northeastern.csye6200.App.start()-56] clazz: class edu.northeastern.csye6200.App
+2022-11-29 17:03:17,709 [TRACE] [edu.northeastern.csye6200.App.start()-59] url: file:/Users/mihirmakwana/currency-converter/target/classes/main.fxml
+2022-11-29 17:03:17,719 [TRACE] [edu.northeastern.csye6200.controller.MainController.<init>()-22] Initiliased Controller
+2022-11-29 17:03:20,105 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: -796835005
+2022-11-29 17:03:20,106 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: -796835005
+2022-11-29 17:03:20,412 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: 856074299
+2022-11-29 17:03:20,413 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: 856074299
+2022-11-29 17:03:20,999 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: -1667002025
+2022-11-29 17:03:21,001 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: -1667002025
+2022-11-29 17:03:21,432 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: -775081349
+2022-11-29 17:03:21,434 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: -775081349
+2022-11-29 17:03:22,043 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: -788236156
+2022-11-29 17:03:22,044 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: -788236156
+2022-11-29 17:03:22,459 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-28] generated randomValue: 1441389164
+2022-11-29 17:03:22,459 [DEBUG] [edu.northeastern.csye6200.controller.MainController.clickMe()-32] setting random text: Random Number is: 1441389164

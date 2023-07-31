@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="509.0" prefWidth="681.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.northeastern.csye6200.controller.SettingsPageController">
+	<children>
+		<AnchorPane fx:id="loginPane" layoutX="231.0" layoutY="14.0" prefHeight="44.0" prefWidth="245.0">
+			<children>
+				<PasswordField fx:id="passwordField" layoutX="14.0" layoutY="12.0" />
+				<Button fx:id="loginButton" layoutX="198.0" layoutY="10.0" mnemonicParsing="false" text="LOGIN" />
+			</children>
+		</AnchorPane>
+		<AnchorPane fx:id="adminPane" layoutX="21.0" layoutY="67.0" prefHeight="585.0" prefWidth="672.0">
+			<children>
+				<Button fx:id="testExceptionButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Test Exception" />
+				<TextField fx:id="apiTextField" layoutX="14.0" layoutY="56.0" />
+				<Button fx:id="testAPIButton" layoutX="194.0" layoutY="56.0" mnemonicParsing="false" text="Test API" />
+            <Text layoutX="14.0" layoutY="125.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PROGRESS SIMULATION" />
+            <TextField fx:id="progressTotalTextField" layoutX="194.0" layoutY="141.0" promptText="Enter Progress Total" />
+            <TextField fx:id="progressStartTextField" layoutX="14.0" layoutY="141.0" promptText="Enter Progress Start" />
+            <TextField fx:id="progressDelayMillisecondsTextField" layoutX="375.0" layoutY="141.0" promptText="Delay Milliseconds" />
+            <Button fx:id="progressSimulateButton" layoutX="560.0" layoutY="141.0" mnemonicParsing="false" text="SIMULATE" />
+            <Text layoutX="14.0" layoutY="212.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cache">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+            </Text>
+            <Text layoutX="16.0" layoutY="244.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Test Cache" />
+            <TextField fx:id="testCacheTextField" layoutX="104.0" layoutY="226.0" />
+            <Button fx:id="testCacheButton" layoutX="284.0" layoutY="226.0" mnemonicParsing="false" text="Test Cache" />
+            <Button fx:id="getCacheSizeButton" layoutX="390.0" layoutY="226.0" mnemonicParsing="false" text="Get Size" />
+            <ToggleButton fx:id="cacheToggleButton" layoutX="482.0" layoutY="227.0" mnemonicParsing="false" text="Toggle Cache" />
+			</children>
+		</AnchorPane>
+	</children>
+
+</AnchorPane>
